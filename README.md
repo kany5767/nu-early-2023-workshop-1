@@ -2,5 +2,5 @@
 
 ```text
 1. Siwawes Wongcharoen
-2. Kanyarat Srisuwan v2
+2. Kanyarat Srisuwan 
 ```
