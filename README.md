@@ -24,7 +24,7 @@
 21.
 22.
 23.
-24.Kanyarat Srisuwan
+24.Kanyarat Srisuwan nan
 25.
 26.
 27.
